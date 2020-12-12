@@ -6,8 +6,8 @@ Please follow these steps, in order to do so :
 ## 1. Dataset
 I got the dataset for this project from the "Machine Learning A-Z" course on the Udemy platform.
 It consists of : 
-                Training set - 8000 images (Dogs = 4000, Cats = 4000)
-                Test set - 2000 images (Dogs = 1000, Cats = 1000)
+                <br>Training set - 8000 images (Dogs = 4000, Cats = 4000)
+                <br>Test set - 2000 images (Dogs = 1000, Cats = 1000)
 You are free to download it from this google drive link : https://drive.google.com/file/d/1o_gLX8eJNHIEpKxeLUjVSbVkxjl1EtjG/view?usp=sharing
 
 ## 2. Implementation
